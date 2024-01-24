@@ -9,3 +9,9 @@ Should you have any questions or comments, don't hesitate to [get in touch](mail
 
 ### 1.1 [20221229_BlogPostContent.zip](https://github.com/sqlko/materials/blob/main/blogposts/20221229_BlogPostContent.zip)
 Sample project for blogpost "[Using references to system tables and views within your database project.](https://blog.sqlko.net/001-2022-12-29-using-references-to-system-tables)".
+
+
+## 2. Presentations
+
+### 2.1 [VisugXL2023.zip](https://github.com/sqlko/materials/blob/main/presentations/VisugXL2023.zip)
+A Zip file with the content of my presentation at VISUGXL in Nov. 2023.
