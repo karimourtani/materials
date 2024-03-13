@@ -16,6 +16,6 @@ Sample project for blogpost "[Using references to system tables and views within
 ### 2.1 [VisugXL2023.zip](https://github.com/sqlko/materials/blob/main/presentations/VisugXL2023.zip)
 A Zip file with the content of my presentation at VISUGXL in November. 2023.
 
-### 2.1 [DataSatMunchen2024.zip](https://github.com/sqlko/materials/blob/main/presentations/DataSatMunchen2024.zip)
+### 2.2 [DataSatMunchen2024.zip](https://github.com/sqlko/materials/blob/main/presentations/DataSatMunchen2024.zip)
 A Zip file with the content of my presentation at Data Saturday München in February 2024.
 
