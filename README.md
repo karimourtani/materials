@@ -19,3 +19,8 @@ A Zip file with the content of my presentation at VISUGXL in November. 2023.
 ### 2.2 [DataSatMunchen2024.zip](https://github.com/sqlko/materials/blob/main/presentations/DataSatMunchen2024.zip)
 A Zip file with the content of my presentation at Data Saturday München in February 2024.
 
+### 2.3 [BranchingStrategies_DataGrillen2024.pdf](https://github.com/sqlko/materials/blob/main/presentations/BranchingStrategies_DataGrillen2024.pdf)
+A PDF of the presentation I gave at DataGrillen in May 2024.
+
+
+
